@@ -1,4 +1,4 @@
-# [SDF01] Challenge: My First Repo 🚀
+# Module_02_nomsa25116_FTO2502_GroupA2_Nomsa-Thandeka
 
 # 👋 Hi, I'm [Nomsa Thandeka]
 
