@@ -1,6 +1,6 @@
-# [SDF01] Challenge: My First Repo 🚀
+# Module_02_nomsa25116_FTO2502_GroupA2_Nomsa-Thandeka
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [Nomsa Thandeka]
 
 🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
 
@@ -19,7 +19,7 @@
 
 **Currently learning:**
 
-- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=purple)
 
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-circle&logo=github)
 
@@ -68,7 +68,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-📧 Email: [youremail@example.com](mailto:youremail@example.com)
+📧 Email: [youremail@example.com](mailto:youremail@ntnongcula@gmail.com)
 
 ---
 
