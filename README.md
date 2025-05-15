@@ -58,6 +58,4 @@
 
 ---
 ##  🏆GitHub stats
-## 🏆 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=26Starboy&show_icons=true&theme=radical)
