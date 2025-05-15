@@ -1,6 +1,6 @@
 # My first coding project!!! 🚀
 
-# 👋 Hi, I am Lungelo Mavundla
+# 👋 Hi, I am Lungelo Mavundla a student at Codespace Academy.
 
 🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
 
