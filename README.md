@@ -1,6 +1,6 @@
 # [SDF01] Challenge: My First Repo 🚀
 
-# 👋 Hi, I'm [boikhantsho nkogatse]
+# 👋 Hi, I'm [boikhantsho nkogatse ]
 
 🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
 
