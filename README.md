@@ -1,8 +1,8 @@
-# [SDF01] Challenge: My First Repo 🚀
+# [SDF01] Challenge: My awesome Repo 🚀
 
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [Aphiwokuhle-Mavimbela]
 
-🌱 Beginner Software Developer | 🚀 Excited to Learn & Build
+🌱I am a Beginner Software Developer | 🚀also i'm Excited to Learn & Build
 
 ---
 
